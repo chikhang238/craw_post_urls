@@ -28,6 +28,7 @@ python worker.py
 ```bash
 python send.py
 ```
+- You can switch from Firefox to Chrome, please follow the instructions from tutorials.
 
 - phone_number.py is just used for retreiving phone number which is hidden, you may run it by:
 ```bash
