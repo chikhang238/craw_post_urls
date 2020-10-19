@@ -15,7 +15,7 @@ pip install requirements.txt
 ```
 
 ## Usage
-- Set GECKOVER in line 26 of crawl.py.
+- Set GECKODRIVER in line 26 of crawl.py.
 - Firstly, you need to run worker.py for waiting the queue:
 ```bash
 python worker.py
